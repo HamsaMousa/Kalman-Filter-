@@ -4,4 +4,5 @@ A Kalman filter was developed for the Dingo-D Clearpath Robotics' differential r
 ## Calculs of the Filter
 ![image](https://github.com/user-attachments/assets/38dc9ffc-16de-4bc7-9823-8837ea56b530)
 
+## Results
 ![image](KF_results.png)
